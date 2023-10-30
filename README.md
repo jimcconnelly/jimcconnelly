@@ -7,12 +7,12 @@
 </picture>
 
 
-- 👀 I’m interested in making Veterans lives easier.
-- 🌱 I’m currently learning pretty much everything.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m interested in making Veterans lives easier.
+- I’m currently learning pretty much everything.
+- I’m looking to collaborate on ...
+- You can reach me by emailing me at _jim.connelly@oddball.io_ or _Jim Connelly_ on Slack
 
-- **is this text bold?**
+
 
 <!---
 jimcconnelly/jimcconnelly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
