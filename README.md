@@ -3,7 +3,7 @@
 
 - I’m interested in making Veterans lives easier.
 - I’m currently learning pretty much everything about how to use github.
-- You can reach me by emailing me at _jim.connelly@oddball.io_ or _Jim Connelly_ on Slack
+- You can reach me by emailing me at _jim.connelly@oddball.io_ or _james.connelly4@va.gov_   _Jim Connelly_ on Slack
 
 
 
